@@ -1,0 +1,10 @@
+# Binários compilados
+/healthcheck
+*.exe
+*.out
+
+# Config local com serviços reais
+config.json
+
+# Cobertura de testes
+coverage.out
